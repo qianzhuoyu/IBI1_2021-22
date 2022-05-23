@@ -1,0 +1,3 @@
+How have total cases and total deaths developed over time in Angola?
+line number: 53
+Yes, the results are exactly what I expected. I import the matplotlib. pyplot as plt. Then typed “plt. plot” to create a new plot that showed the total cases and total deaths developed over time. I typed “ro” and “bo” in the “plt. plot”, So the pattern of the dots in the plot is red and blue dots. The dates under X-axes were slant. Because I typed “rotation=-30” in “plt.xticks”. I also added labels for the X and Y axes. So the plot showed “dates” under X-axes and “number” near Y axes. Meanwhile, “plt.title('total cases and total deaths in Angola')” gave a name to the plot. Finally, I typed “plt.legend()” to distinguish the total cases(blue dots) and total deaths(red dots).
