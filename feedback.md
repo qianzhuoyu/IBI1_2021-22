@@ -1,0 +1,3 @@
+Week 4: I get full marks. There was nothing need to be improved.
+Week 5: I wrote the command to run the results like ‘print()’ in pseudocode and my script had no output. I lost most of my score on the results. I delete ‘#’ before the command, so everything went right. In addition, my pseudocode needed to be more detailed, I use a word like “j” as a variable to store something. it’s unclear. I rename the variables and make them more specific. 
+Week 6: like week5, my pseudocode needed to be more detailed and my script had no output.I address these problems as I did in week 5. Additionally, I lost labels in scatter plot and boxplot. So I added some codes to add labels to the plots.
