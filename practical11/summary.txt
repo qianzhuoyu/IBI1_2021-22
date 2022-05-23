@@ -1,0 +1,9 @@
+The percentage of identical amino acids between random and human is: 2.768166089965398%
+The percentage of identical amino acids between random and mouse is: 3.1141868512110724%
+The percentage of identical amino acids between mouse and human is: 96.53979238754326%
+
+The score between mouse and human is: 1490
+The score between mouse and random is: -348
+The score between random and human is: -351
+
+Human and mouse has a high percentage of identical amino acids and gets a high score in BLOSUM, which means the DLX5 is essential for both humans and mouse. Meanwhile, the result shows that humans and mice may be genetically related. Humans and mouse may have a common ancestor. The large gap between the two sequences and the random sequence indicates that this situation is not accidental.
